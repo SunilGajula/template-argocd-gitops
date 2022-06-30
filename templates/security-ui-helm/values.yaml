@@ -1,0 +1,5 @@
+global: {}
+security-ui:
+  replicaCount: 4
+route:
+    enabled: true
