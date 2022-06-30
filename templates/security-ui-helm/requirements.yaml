@@ -1,4 +1,0 @@
-dependencies:
-- name: security-ui
-  version: 0.0.5
-  repository: https://artifactory-tools.apps.toolkit.cp.fyre.ibm.com/artifactory/generic-local/security-ui
